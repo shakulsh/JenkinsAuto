@@ -1,0 +1,6 @@
+/jenkins/logs
+*.log
+*.zip
+*.war
+*.gz
+
